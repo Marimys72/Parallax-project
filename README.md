@@ -1,6 +1,5 @@
 # Parallax-project
 Красивый сайт с эффектом Parallax при скролле.
-Сайт создавался на основе видео с канала [WebDesign Master](https://www.youtube.com/@wdm)
 
 **Фишки проекта**
 
